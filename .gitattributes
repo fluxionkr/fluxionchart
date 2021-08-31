@@ -2,3 +2,4 @@ Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.unity.sysroot.linux-x86_64@0.1.14-preview/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
 Library/Il2cppBuildCache/WebGL/Native/build.bc filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@0.1.21-preview/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Library/il2cpp_cache/linkresult_F4CA841A2C902A51A24A1A2A3857BEA4/build.bc filter=lfs diff=lfs merge=lfs -text
