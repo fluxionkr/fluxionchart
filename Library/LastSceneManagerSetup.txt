@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Chart And Graph/Themes/3d/Bar/Theme1/Preset3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

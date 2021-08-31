@@ -1,0 +1,1493 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - BarAnimation
+    - BarSample2
+    - CategoryLabels
+    - ChartAndGraph.BarMeshGenerator
+    - ChartAndGraph.BoxPathGenerator
+    - ChartAndGraph.CanvasBarChart
+    - ChartAndGraph.CanvasLines
+    - ChartAndGraph.CanvasPieChart
+    - ChartAndGraph.CanvasRadarChart
+    - ChartAndGraph.ChartItem
+    - ChartAndGraph.ChartItemEvents
+    - ChartAndGraph.ChartItemGrowEffect
+    - ChartAndGraph.ChartItemMaterialLerpEffect
+    - ChartAndGraph.ChartItemTextBlend
+    - ChartAndGraph.ChartMaterialController
+    - ChartAndGraph.CustomChartPointer
+    - ChartAndGraph.CustomPathGenerator
+    - ChartAndGraph.CylinderPathGenerator
+    - ChartAndGraph.FillPathGenerator
+    - ChartAndGraph.GraphChart
+    - ChartAndGraph.HorizontalAxis
+    - ChartAndGraph.ItemLabels
+    - ChartAndGraph.Legened.CanvasLegend
+    - ChartAndGraph.Legened.CanvasLegendItem
+    - ChartAndGraph.PieAnimation
+    - ChartAndGraph.PieCanvasGenerator
+    - ChartAndGraph.SensitivityControl
+    - ChartAndGraph.TextDirection
+    - ChartAndGraph.VerticalAxis
+    - ChartAndGraph.WorldSpaceBarChart
+    - ChartAndGraph.WorldSpaceGraphChart
+    - ChartAndGraph.WorldSpacePieChart
+    - ChartAndGraph.WorldSpacePieGenerator
+    - ChartAndGraph.WorldSpaceRadarChart
+    - GraphChartFeed
+    - GroupLabels
+    - TextController
+    - TitleScene
+    - TitleSceneUI
+    - Zoom
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_ColorGradient
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.EventSystems.TouchInputModule
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Outline
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/Chart And Graph/Themes/3d/Bar/Theme1/Preset3.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1510}
+    - Class: 114
+      Script: {instanceID: 1512}
+    - Class: 114
+      Script: {instanceID: 1514}
+    - Class: 114
+      Script: {instanceID: 1516}
+    - Class: 114
+      Script: {instanceID: 1522}
+    - Class: 114
+      Script: {instanceID: 1528}
+    - Class: 114
+      Script: {instanceID: 1532}
+    - Class: 114
+      Script: {instanceID: 1544}
+    - Class: 114
+      Script: {instanceID: 1642}
+    - Class: 114
+      Script: {instanceID: 1672}
+    - Class: 114
+      Script: {instanceID: 1692}
+    - Class: 114
+      Script: {instanceID: 1740}
+    - Class: 114
+      Script: {instanceID: 1756}
+    - Class: 114
+      Script: {instanceID: 1820}
+    - Class: 114
+      Script: {instanceID: 1946}
+    - Class: 114
+      Script: {instanceID: 1962}
+    - Class: 114
+      Script: {instanceID: 2020}
+    - Class: 114
+      Script: {instanceID: 2050}
+    - Class: 114
+      Script: {instanceID: 2104}
+    - Class: 114
+      Script: {instanceID: 2132}
+    - Class: 114
+      Script: {instanceID: 2134}
+    - Class: 114
+      Script: {instanceID: 2162}
+    - Class: 114
+      Script: {instanceID: 2182}
+    - Class: 114
+      Script: {instanceID: 2360}
+    - Class: 114
+      Script: {instanceID: 2374}
+    - Class: 114
+      Script: {instanceID: 2418}
+    - Class: 114
+      Script: {instanceID: 2548}
+    - Class: 114
+      Script: {instanceID: 2636}
+    - Class: 114
+      Script: {instanceID: 2696}
+    - Class: 114
+      Script: {instanceID: 2738}
+    - Class: 114
+      Script: {instanceID: 2776}
+    - Class: 114
+      Script: {instanceID: 2916}
+    - Class: 114
+      Script: {instanceID: 2954}
+    - Class: 114
+      Script: {instanceID: 2984}
+    - Class: 114
+      Script: {instanceID: 3006}
+    - Class: 114
+      Script: {instanceID: 3024}
+    - Class: 114
+      Script: {instanceID: 3214}
+    - Class: 114
+      Script: {instanceID: 3238}
+    - Class: 114
+      Script: {instanceID: 3350}
+    - Class: 114
+      Script: {instanceID: 3382}
+    - Class: 114
+      Script: {instanceID: 3472}
+    - Class: 114
+      Script: {instanceID: 3550}
+    - Class: 114
+      Script: {instanceID: 3564}
+    - Class: 114
+      Script: {instanceID: 3604}
+    - Class: 114
+      Script: {instanceID: 3668}
+    - Class: 114
+      Script: {instanceID: 3708}
+    - Class: 114
+      Script: {instanceID: 3898}
+    - Class: 114
+      Script: {instanceID: 3906}
+    - Class: 114
+      Script: {instanceID: 4020}
+    - Class: 114
+      Script: {instanceID: 4056}
+    - Class: 114
+      Script: {instanceID: 4144}
+    - Class: 114
+      Script: {instanceID: 4164}
+    - Class: 114
+      Script: {instanceID: 4174}
+    - Class: 114
+      Script: {instanceID: 4226}
+    - Class: 114
+      Script: {instanceID: 4262}
+    - Class: 114
+      Script: {instanceID: 4278}
+    - Class: 114
+      Script: {instanceID: 4292}
+    - Class: 114
+      Script: {instanceID: 19138}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 215
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: f3b94a8397e377df544df57df9d23574
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CylinderPathGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TitleScene
+  - hash:
+      serializedVersion: 2
+      Hash: e7de50562977cdf49ff8777eaa0e4d2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: VerticalAxis
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 963b6dfb614633ad1f4ebc4d61b3beb4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItemGrowEffect
+  - hash:
+      serializedVersion: 2
+      Hash: bae1d4159336cfa0f90c6dea4aadd80b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: RadarFillGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 8e2cde8e599d5adbac91bedb07a13cee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SimpleGraphDemo
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasLinesHover
+  - hash:
+      serializedVersion: 2
+      Hash: 62fef86270a167c41a606cfca1ecc156
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: ShaderPropAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 135b4b2390b36aff0d8dd75685f242af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Managers
+  - hash:
+      serializedVersion: 2
+      Hash: 8e2cde8e599d5adbac91bedb07a13cee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MultipleGraphDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 457741a8951ee450400cabeaec49920f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: PieAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: LineRendererPathGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8a874a8207a7664bdf44e61f28717254
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: SkewTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: e6f0efd0e20669d577e9d21526b3d3f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: WarpTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: 6e82b2d689558a4c82d4bf48cbba20d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItemEvents
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Scene
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RealtimeAppend
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: SimpleScript
+  - hash:
+      serializedVersion: 2
+      Hash: 78b09f0cf329d5f7c3825f5c3ea47fc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Marker
+  - hash:
+      serializedVersion: 2
+      Hash: e7de50562977cdf49ff8777eaa0e4d2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: HorizontalAxis
+  - hash:
+      serializedVersion: 2
+      Hash: ac6f37631d867e122d39289d87184412
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: SelectScene
+  - hash:
+      serializedVersion: 2
+      Hash: 8bcc399a68e922962c8b9ee5b861e94c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarContentFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_DigitValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 42b2c7ed4b692fb686eec8c83153b02e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphZoom
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UIElements
+    className: PanelEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: d165c451f09e5f87bce6908bfa1de340
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartMaterialController
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: PieCanvasGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WebUtility
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphChartFeed
+  - hash:
+      serializedVersion: 2
+      Hash: 961d303bc98f93e5ea0317e8484d702f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphSample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChartText
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph.Axis
+    className: AxisGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: bdb59912ad03d3476ed0f66283e8d124
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: WorldSpaceGraphChart
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 70ba7b366ce8ebd89c9bd47596c57568
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BillboardText
+  - hash:
+      serializedVersion: 2
+      Hash: 869d30d853ef9d9448b922f33912f194
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: InfoBox
+  - hash:
+      serializedVersion: 2
+      Hash: f4fe2bd3bb1c24087cb9337c105f28d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarSample2
+  - hash:
+      serializedVersion: 2
+      Hash: 777d548bb2daf62956d71cd136cc66eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItemMaterialLerpEffect
+  - hash:
+      serializedVersion: 2
+      Hash: d18427b2005445fb71b9e81f53639ecd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 522859cd5593d1f380f28abdc54d4ac1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItemTextBlend
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItem
+  - hash:
+      serializedVersion: 2
+      Hash: 5c96b847b890b1b914cd6bf3792f20f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: colorRandomizer
+  - hash:
+      serializedVersion: 2
+      Hash: 4f60ff347d4efee4ef8cc7f627735018
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark02
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 4d16cfbaa8e821a2b370e80844a0e9bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextMeshSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 27e5341178f188b89bdc6495710b590c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark01_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7e64ce8da890a81872eaf3053407370e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GroupLabels
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 8390ffe1b607c853f296849c725a6aa8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: GraphChart
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_A
+  - hash:
+      serializedVersion: 2
+      Hash: e9b37a2999e6ba18a694024293ca4fc7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AxisCoordinates
+  - hash:
+      serializedVersion: 2
+      Hash: e2da022bf735d453d288ce2bbbadce3e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarRunChart
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasCandleGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 66c00be8a5c9b32eec9f6cc3340b2654
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PyramidFeed
+  - hash:
+      serializedVersion: 2
+      Hash: 92e0abfea63e6a4944c14c20d43e494a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MarkerTextLine
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WebClient
+  - hash:
+      serializedVersion: 2
+      Hash: f4982f699f4f95ac689795738ef609de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: PyramidChart
+  - hash:
+      serializedVersion: 2
+      Hash: 23f3bdb72e420879026087dfd4b303d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Zoom
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 34746f5ad4a8189141ddf65a40069ea1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 6663435805926faf16934aed992cd26b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark03
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CharItemEffectController
+  - hash:
+      serializedVersion: 2
+      Hash: 5b9354ed4fb3a38fc427d4f9d1b60e77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MarkerText
+  - hash:
+      serializedVersion: 2
+      Hash: 22e9d4d689e3585f4b980de66e7c9980
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CustomPathGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RadarChartFeed
+  - hash:
+      serializedVersion: 2
+      Hash: 82c3da873be014518cb9ccdea6332b51
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: highlightTest
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: BarInfo
+  - hash:
+      serializedVersion: 2
+      Hash: 0784d4fd5b93bd75440d01eb2fac4233
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexShakeA
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 55aec739a5cd054209902422ea0310a8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph.Legened
+    className: CanvasLegend
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8959db6cdae99833a4dc5d9b8a6f8ef5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: BoxPathGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: fe2d355deb0ca31d59a0a7cf4d141fc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark04
+  - hash:
+      serializedVersion: 2
+      Hash: 47582b7428e6c87d87048f8ff7ae2fc6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MarkerSampleDataInitializer
+  - hash:
+      serializedVersion: 2
+      Hash: 804eda2603ddf022ff78cceb06a7bfbd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeOrder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasCandle
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: bd3f0ca738703903e759f77536ed74fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_FrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 8708e7006aed6f9fa9a0e2d249f925ae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph.Legened
+    className: CanvasLegendItem
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: f5274f7a40c63b2a791c2accbc80c90e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PyramidAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a9b29db212ccc9ac6bf3837045eddc89
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: FillPathGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: BubbleGraphFeed
+  - hash:
+      serializedVersion: 2
+      Hash: e5dc6c642327943cca72c8302b510458
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Global
+  - hash:
+      serializedVersion: 2
+      Hash: 9536a3cb1155a6221190e8c6bb7fb42a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: BarMeshGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 2c0a467ee7950c941c2dd8ef6b974a7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChatController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarChartFeed
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexJitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7536c3aaa3b668b80f1580147a12d30d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextMeshProFloatingText
+  - hash:
+      serializedVersion: 2
+      Hash: 91baced0921118c2ed11987420332451
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: 899b256b94d204914682f3c2de1ec81e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphDataFiller
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: af8514721e4903437c25f32586d88e3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PieSample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: User
+  - hash:
+      serializedVersion: 2
+      Hash: 27ec3360f0c0a6803ba71cc3106480b8
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph.Axis
+    className: CanvasAxisGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 4e516d6d64d44446989426b8f725c6f8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_TextEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 8762b358ec04043fd4fafca7fe304f39
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasLines
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 6c1b99eee0b0e12e4122f49d4ced8d80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HoverText
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexShakeB
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: RadarFill
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: f5274f7a40c63b2a791c2accbc80c90e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: a1ca1237bad0f30ea5ba8f4060929114
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_B
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 41a58f1fda2aa86e9996c2f09f37ea74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphRectZoom
+  - hash:
+      serializedVersion: 2
+      Hash: 4de8062c7423160beb14cb5c376d9afd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CustomChartPointer
+  - hash:
+      serializedVersion: 2
+      Hash: 8b1fe5dfdcf943fb3b72506b9f19335f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnvMapAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: bd3f0ca738703903e759f77536ed74fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_UiFrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PieChartFeed
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RadarMaxValueCategory
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TitleSceneUI
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 30e1bec9a7b346dc60b5ad88237427f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WaveGraph
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 34494e807080336ac785885ab3175ad3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: WorldSpaceRadarChart
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 7fa18ef839dc74a36f6d1085f1ace0c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: PyramidCanvasGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 113bc7fb672986c101b7e1945bfc7f89
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: SensitivityControl
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 3375c3d749f8f4cad889721b431bdc27
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 27f8ec286e6fa514da100b5336f97b0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomFormat
+  - hash:
+      serializedVersion: 2
+      Hash: 31993eb3b02879df28fd5217f4575bd5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CategoryLabels
+  - hash:
+      serializedVersion: 2
+      Hash: 7562729fb122a3f13f1aa170d3cd6eeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PointHighlight
+  - hash:
+      serializedVersion: 2
+      Hash: 4370ae1df1462735bbcb1574b9de3180
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RadarDataFiller
+  - hash:
+      serializedVersion: 2
+      Hash: d28d6397faa763cf819cd56fd6f86f0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TrackerLine
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GraphDataVisualEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 8e2cde8e599d5adbac91bedb07a13cee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StreamingGraph
+  - hash:
+      serializedVersion: 2
+      Hash: c9af46019b540af11feac0f5144e60e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MixedCharts
+  - hash:
+      serializedVersion: 2
+      Hash: dcfd65e080556e58db6789336630ce4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarDataFiller
+  - hash:
+      serializedVersion: 2
+      Hash: fe1fdeffc2067077b2f1a90b210c2532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DropdownSample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: PieInfo
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_PhoneNumberValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 33493ed30bd0f4d30a9729bf16979336
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: TextDirection
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f4fe2bd3bb1c24087cb9337c105f28d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BarSample
+  - hash:
+      serializedVersion: 2
+      Hash: e80c1450883443c68d6c2dade213536f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMPro_InstructionOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexColorCycler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CandleChartFeed
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TeleType
+  - hash:
+      serializedVersion: 2
+      Hash: e244702e0dc05782229aa524e4d757f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_ExampleScript_01
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextConsoleSimulator
+  - hash:
+      serializedVersion: 2
+      Hash: 8a0dd1c7383104aeeec133ab05f9a9ed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: WorldSpacePieChart
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexZoom
+  - hash:
+      serializedVersion: 2
+      Hash: 11319334e5365797f8056694f9b5dae4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: ObjectSpin
+  - hash:
+      serializedVersion: 2
+      Hash: 9effb4e9fdf635a23df6515f35c056c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PieDataFiller
+  - hash:
+      serializedVersion: 2
+      Hash: f4114d8e5c3b3b829d76e2d4a6b830f6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasBarChart
+  - hash:
+      serializedVersion: 2
+      Hash: e1d01f997fd7240eaececd598bbbf702
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: testMarker
+  - hash:
+      serializedVersion: 2
+      Hash: b6514f552bd2ee9e736a5678aa7f7de3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextInfoDebugTool
+  - hash:
+      serializedVersion: 2
+      Hash: 73410e35c0650b71c50d5d477bb09d1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LargeDataFeed
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 126979f7245e0e34c65a63964716de60
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasRadarChart
+  - hash:
+      serializedVersion: 2
+      Hash: 991fd01dc55be3af7eb19d2e3248949a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasCandleChart
+  - hash:
+      serializedVersion: 2
+      Hash: b6a1f5b11b3b8da54f30e18673951b35
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: WorldSpaceBarChart
+  - hash:
+      serializedVersion: 2
+      Hash: 0dfd2cd0f804bd208a1bbbf4036e062a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ItemLabels
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 47930f3b40e24ef5b3b5e3d9ada7097a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark01
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResourceManager
+  - hash:
+      serializedVersion: 2
+      Hash: dd7520b7d4e690e8c593273e7b9fbe80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextEventCheck
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: WorldSpacePieGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 4cd2da2a38e1e41a307034ba23f401b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIManager
+  - hash:
+      serializedVersion: 2
+      Hash: d859600aaee265b4814e2bab657d12a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: ChartItemNoDelete
+  - hash:
+      serializedVersion: 2
+      Hash: 07e01b53ad101636c7871e8894a6ef4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ChartAndGraph
+    className: CanvasPieChart
+  platform: 20
+  scenePathNames:
+  - Assets/Chart And Graph/Themes/3d/Bar/Theme1/Preset3.unity
+  playerPath: C:/work/unity/build/WebGL/BarChart2
